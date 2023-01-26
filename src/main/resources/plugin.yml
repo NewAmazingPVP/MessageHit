@@ -1,0 +1,6 @@
+name: Message
+version: '${project.version}'
+main: messagehit.message.Message
+api-version: 1.18
+authors: [ NewAmazingPVP ]
+description: Message player when they hit a mob!

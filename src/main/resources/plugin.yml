@@ -1,6 +1,6 @@
-name: Message
-version: '${project.version}'
+name: EntityInformHit
+version: 1.0-Alpha
 main: messagehit.message.Message
 api-version: 1.18
 authors: [ NewAmazingPVP ]
-description: Message player when they hit a mob!
+description: Message player when they hit any entity!
